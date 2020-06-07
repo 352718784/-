@@ -10,6 +10,5 @@ export default {
 
 <style scoped lang="scss">
   .devTools{
-    background-color: yellow;
   }
 </style>
