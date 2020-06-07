@@ -35,12 +35,8 @@
 </template>
 
 <script>
-import axios from 'axios'
-import vue from 'vue'
-import demo from './demo'
 export default {
   name: 'HelloWorld',
-  components: {demo},
   data () {
     return {
       msg: 'hello',
